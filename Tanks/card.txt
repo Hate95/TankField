@@ -1,0 +1,15 @@
+dff
+20 13
+2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 
+2 sten 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 2 sten 2 sten 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 2 sten
+2 sten 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 1 sten 1 sten 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 2 sten
+2 sten 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 1 sten 1 sten 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 2 sten
+2 sten 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 1 sten 1 sten 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 2 sten
+2 sten 0 proh 1 sten 0 proh 0 proh 1 sten 1 sten 1 sten 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 2 sten
+2 sten 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 2 sten
+2 sten 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 2 sten
+2 sten 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 1 sten 1 sten 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 2 sten
+2 sten 0 proh 1 sten 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 1 sten 1 sten 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 2 sten
+2 sten 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 1 sten 1 sten 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 2 sten
+2 sten 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 1 sten 1 sten 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 0 proh 2 sten
+2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten 2 sten
